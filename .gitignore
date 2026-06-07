@@ -1,0 +1,19 @@
+.DS_Store
+
+# Local workbench, external references, and generation drafts are kept private.
+.workbench/
+reference/
+**/reference/
+resource/
+**/resource/
+resources/
+**/resources/
+resourses/
+**/resourses/
+styles/pixel-mini-cat/resourses/
+styles/pixel-mini-cat/resources/
+
+# Temporary files
+*.tmp
+*.bak
+*.log
